@@ -4,7 +4,7 @@
     "id": "no_portal_storm",
     "name": "Disable portal storm",
     "authors": [ "CutenessOverloaded" ],
-    "description": "If you still don't like portal storms even it don't hurt NPCs anymore, USE THIS. owo b",
+    "description": "If you still don't like portal storm even it can't hurt NPCs anymore, USE THIS. owo b",
     "category": "misc_additions",
     "dependencies": [ "dda" ]
   },
