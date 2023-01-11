@@ -4,7 +4,7 @@
 
 **Mod ID:** no_portal_storm  
 **Name of the Mod:** Disable portal storm  
-**Description of the Mod:** If you still don't like portal storm even it don't hurt NPCs anymore, USE THIS. owo b  
+**Description of the Mod:** If you still don't like portal storm even it can't hurt NPCs anymore, USE THIS. owo b  
 
 ## How to Use
 
