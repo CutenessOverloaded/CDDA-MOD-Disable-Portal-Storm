@@ -1,4 +1,4 @@
-# CDDA-MOD-Disable-Portal-Storm
+# Oz's CDDA MOD: Disable Portal Storm
 
 ## Propreties
 
