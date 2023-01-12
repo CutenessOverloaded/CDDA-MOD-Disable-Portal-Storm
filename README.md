@@ -16,7 +16,10 @@ I also had a test on spawning **Early Portal Storm** and **Portal Storm** using 
 
 
 But I did another test. If the storm was already existed, they would not disappear immediately. Instead, **Portal Storm** will pass away just like normal, but **Early Portal Storm** would not pass away.<br>
-So, if the **Early Portal Storm** was already existed before adding the **Mod**. You should Wait untill the **Portal Storm** comes or later, then add the **Mod**. So that, the **Early Portal Storm** will gone or it will there forever.
+So, if the **Early Portal Storm** was already existed before adding the **Mod**. You should Wait untill the **Portal Storm** comes or later, then add the **Mod**. So that, the **Early Portal Storm** will gone or it will by there forever.
+
+
+Also, a good way to disable portal storm without editing game files yourself. owo
 
 ## How to Use
 
